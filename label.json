@@ -1,0 +1,39 @@
+{
+    "labels": [
+        {
+            "name": "버그",
+            "color": "d73a4a",
+            "description": "예기치 않은 문제 또는 의도하지 않은 동작(버그)을 나타냅니다."
+        },
+        {
+            "name": "기능 추가",
+            "color": "7057ff",
+            "description": "새로운 기능 요청을 나타냅니다."
+        },
+        {
+            "name": "DOCS",
+            "color": "cfd3d7",
+            "description": "문서를 개선하거나 추가 할 필요가 있음을 나타냅니다."
+        },
+        {
+            "name": "chore",
+            "color": "0075ca",
+            "description": "자잘한 수정들을 나타냅니다."
+        },
+        {
+            "name": "리팩토링",
+            "color": "008672",
+            "description": "리팩토링이 필요함을 나타냅니다."
+        },
+        {
+            "name": "프로젝트 설정",
+            "color": "555303",
+            "description": "프로젝트 설정이 필요함을 나타냅니다."
+        },
+        {
+            "name": "테스트 추가",
+            "color": "CD7F57",
+            "description": "새로운 테스트 요청을 나타냅니다."
+        }
+    ]
+}

@@ -1,11 +1,6 @@
 {
     "labels": [
         {
-            "name": "test",
-            "color": "171270",
-            "description": "tested label"
-        },
-        {
             "name": "버그",
             "color": "d73a4a",
             "description": "예기치 않은 문제 또는 의도하지 않은 동작(버그)을 나타냅니다."
